@@ -12,3 +12,4 @@ dependencies:
   - pydoe
   - ipywidgets
   - pillow
+  - jupyter_contrib_nbextensions
