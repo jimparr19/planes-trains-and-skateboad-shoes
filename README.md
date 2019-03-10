@@ -1,9 +1,8 @@
 # Planes, Trains and Skateboard Shoes
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jimparr19/planes-trains-and-skateboard-shoes/master)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jimparr19/planes-trains-and-skateboad-shoes/master)
-
-https://mybinder.org/v2/gh/jimparr19/planes-trains-and-skateboad-shoes/master
+https://mybinder.org/v2/gh/jimparr19/planes-trains-and-skateboard-shoes/master
 
 
 ### Thanks to these guys
