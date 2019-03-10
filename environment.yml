@@ -1,0 +1,14 @@
+name: rise-environment
+channels:
+  - damianavila82
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - rise
+  - scipy
+  - pydoe
+  - ipywidgets
+  - pillow
